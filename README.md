@@ -32,3 +32,6 @@ A mini local business dashboard that simulates how small businesses might view t
    ```bash
    git clone git@github.com:KBB2000/Full-Stack-Intern-Assignment.git
    cd Full-Stack-Intern-Assignment
+
+
+![Screenshot 2025-07-05 165956](https://github.com/user-attachments/assets/a85a3f1a-46e4-4750-8e9f-e2980138fe9e)
